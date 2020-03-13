@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hyxtrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nativeConfigClient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nativeConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restTemplet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restTemplet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/src/main/java" charset="UTF-8" />
+  </component>
+</project>
